@@ -1,2 +1,3 @@
-# critical-workforce-analytics
-Critical workforce analytics project examining algorithmic bias in HR systems. Uses post-structural methodology and chaos theory to reveal hidden organizational dynamics, map employee networks, and develop fairer performance frameworks. Focus: retail workforce optimization."
+# Critical Workforce Analytics
+
+This project explores how data choices shape workforce "truths." Through sensitivity tools, metric deconstruction, and network modeling, it reveals how HR analytics encode bias. Built with Python, Jupyter, and Power BI. Inspired by critical data studies.
