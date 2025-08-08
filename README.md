@@ -31,16 +31,23 @@ This project applies post-structural philosophy and chaos theory to workforce an
 ## Project Structure
 
 ```
-├── data/                          # Workforce datasets and preprocessing pipelines
+post_structural_workforce_analytics/
+├── data/
+│   ├── raw/
+│   └── processed/
 ├── notebooks/
-│   ├── 01_deconstructing_metrics/ # Exposing algorithmic authority
-│   ├── 02_genealogy_analysis/     # Historical workforce categorization
-│   ├── 03_network_analysis/       # Rhizomatic employee connections  
-│   ├── 04_butterfly_effects/      # Organizational disruption modeling
-│   └── 05_integration/            # Business recommendations
-├── dashboards/                    # Interactive visualizations
-├── reports/                       # Executive summaries and documentation
-└── tools/                         # Reusable analytical frameworks
+│   ├── 01_deconstructing_metrics.ipynb
+│   ├── 02_genealogy_analysis.ipynb
+│   ├── 03_network_analysis.ipynb
+│   ├── 04_butterfly_effects.ipynb
+│   └── 05_integration.ipynb
+├── dashboards/
+│   └── app.py
+├── reports/
+│   └── executive_summary.md
+├── tools/
+│   └── __init__.py
+└── requirements.txt
 ```
 
 ## Key Deliverables
